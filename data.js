@@ -27,7 +27,7 @@ const movies = [
         date: "1999-10-15",
         rating: 8.4,
         audience: 0,
-        poster: "/ekZ07Ted7VHxQjbuZrRBF0amcKJ.jpg",
+        poster: "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
         type: "mine",
         rank: null,
         overview: "무료한 일상을 보내던 남자가 타일러 더든을 만나 비밀 격투 모임을 만들면서 예측할 수 없는 사건에 휘말린다."
@@ -49,7 +49,7 @@ const movies = [
         date: "2021-10-22",
         rating: 6.6,
         audience: 0,
-        poster: "/dy8KHbhCTqPZ1qfuF8XZR1Y5a6f.jpg",
+        poster: "/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
         type: "mine",
         rank: null,
         overview: "무법자 냇 러브는 자신의 원수가 감옥에서 풀려났다는 소식을 듣고 동료들을 모아 복수에 나선다."
