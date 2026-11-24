@@ -60,7 +60,7 @@ const movies = [
     "date": "2026-09-30",
     "rating": 7.4,
     "audience": 2268257,
-    "poster": "/5TMyytCI5Pfc9c1eNs1jiCdiB05.jpg",
+    "poster": "/5TMyytCI5Pfc9c1eNsljiCdiB05.jpg",
     "type": "boxoffice",
     "rank": 1,
     "overview": "줄거리 정보가 없습니다."
@@ -71,7 +71,7 @@ const movies = [
     "date": "2026-09-23",
     "rating": 7.2,
     "audience": 3382046,
-    "poster": "/c55ijs0dntj6P25vDwHLdgsBpmV.jpg",
+    "poster": "/c55ijsOdntj6P25vDwHLdgsBpmV.jpg",
     "type": "boxoffice",
     "rank": 2,
     "overview": "줄거리 정보가 없습니다."
@@ -104,7 +104,7 @@ const movies = [
     "date": "2026-10-21",
     "rating": 7.5,
     "audience": 84196,
-    "poster": "/LSGpo5Alitss0K0vVakkeUToZo.jpg",
+    "poster": "/LSGpoSAlitss0KOvVakkeUToZo.jpg",
     "type": "boxoffice",
     "rank": 5,
     "overview": "줄거리 정보가 없습니다."
