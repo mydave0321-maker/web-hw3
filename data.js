@@ -82,7 +82,7 @@ const movies = [
         date: "2026-10-21",
         rating: 8.0,
         audience: 112191,
-        poster: "/wkm9BQLok7U2KihCcSpCa663Qse.jpg",
+        poster: "/wkm9BQLok7U2KihcCspCa663Qse.jpg",
         type: "boxoffice",
         rank: 3,
         overview: "실종된 아들을 AI로 만나며 살아가던 소영에게 9년 만에 실제 아들이 돌아온다. 그러나 기억과 다른 아들의 모습에 의심이 커진다."
@@ -93,7 +93,7 @@ const movies = [
         date: "2026-09-23",
         rating: 7.0,
         audience: 2006480,
-        poster: "/ueigb5zraltj6FTK9yhh2P33P9B.jpg",
+        poster: "/ueigb5zra1tj6FTK9yhh2P33P9B.jpg",
         type: "boxoffice",
         rank: 4,
         overview: "온라인 카지노 사업에 뛰어든 두 친구는 성공을 거두지만 질투와 배신으로 갈라진다. 두 사람은 결국 거대한 도박판에서 다시 만난다."
